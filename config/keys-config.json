@@ -1,0 +1,15 @@
+{
+    "AutomationProcessors" :{
+        "nanodrop":"03.Nanodrop Data ",
+        "vicell":"01.Vi-Cell Data",
+        "register_dna_samples":"02.Register newly extracted DNA samples",
+        "creation_of_containers_and_transfer_sample":"04.Creation of containers and Transfer of samples"
+    },
+    "BoxConfig":{
+        "box_schema_id":"boxsch_SrTMcwoS",
+        "location_id":"" 
+    },
+    "ContainerConfig":{
+        "container_schema_id":"consch_POtBVeIf" 
+    }
+}
